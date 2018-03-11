@@ -8,3 +8,5 @@ ZCZC W01 telah mencoba demo Week01. Dengan mengcompile semua file yang ada, yang
 ZCZC W02 telah mencoba demo Week02. Dengan mengcompile dan mengrun program C yang diberikan, yang berisi simulasi cara memprint biasa atau dengan berformat, cara looping/iterasi, dan simulasi-simulasi lainnya.
 
 ZCZC W03 telah mencoba demo Week03. Dengan mengcompile dan menrun program-program yang diberikan pada folder W03-demos.
+
+ZCZC W04 telah mencoba demo Week04. Dengan mengcompile dan menrun perogram-program yang diberikan pada folder W04-demos, yang berisi simulasi penggunaan parameter beserta pointer dalam mengisi data ke register yang ada di dalam memori, dan operasi lain-lainnya.
