@@ -13,4 +13,6 @@ ZCZC W04 telah mencoba demo Week04. Dengan mengcompile dan menrun perogram-progr
 
 ZCZC W05 telah mencoba demo Week05. Dengan mencompile dan merun program yang diberikan pada folder W05-demos, yang berisi simulasi mencari lokasi / tracing pointer dan memprint lokasi pointer tersebut beserta data yang ditunjuk dan juga lokasinya, dan kodingan tersebutjuga mensimulasikan tentang indexing.
 
-ZCZC W06 telah moencoba demo Week06. Dengan mengcompile dan menjalankan program-program c yang diberikan, yang berisi simulasi cara kerja dari method fork, sleep, show pid, dan yang lainnya pada pengeksekusian proses di dalam OS.
+ZCZC W06 telah mencoba demo Week06. Dengan mengcompile dan menjalankan program-program c yang diberikan, yang berisi simulasi cara kerja dari method fork, sleep, show pid, dan yang lainnya pada pengeksekusian proses di dalam OS.
+
+ZCZC W07 telah mencoba demo Week07. Dengan mengcompile dan menjalankan program-program c yang diberikan, yang berisi simulasi dari thread, multithreading, semaphore, dan lain-lain pada OS.
