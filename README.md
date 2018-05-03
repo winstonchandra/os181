@@ -18,3 +18,5 @@ ZCZC W06 telah mencoba demo Week06. Dengan mengcompile dan menjalankan program-p
 ZCZC W07 telah mencoba demo Week07. Dengan mengcompile dan menjalankan program-program c yang diberikan, yang berisi simulasi dari thread, multithreading, semaphore, dan lain-lain pada OS.
 
 ZCZC W08 telah mencoba demo Week08. Dengan mengcompile dan menrun program-program c yang diberikan pada folder extra, yang berisi simulasi cara kerja client-server pada OS.
+
+ZCZC W09 telah mencoba demo Week09. Dengan mengcompile dan menrun program-prgram c yang diberikan.
