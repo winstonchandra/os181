@@ -20,3 +20,5 @@ ZCZC W07 telah mencoba demo Week07. Dengan mengcompile dan menjalankan program-p
 ZCZC W08 telah mencoba demo Week08. Dengan mengcompile dan menrun program-program c yang diberikan pada folder extra, yang berisi simulasi cara kerja client-server pada OS.
 
 ZCZC W09 telah mencoba demo Week09. Dengan mengcompile dan menrun program-prgram c yang diberikan.
+
+ZCZC W10 telah mencoba demo Week10. Dengan mengerjakan soal-soal yang diberikan di folder extra Week10.
